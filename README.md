@@ -1,9 +1,9 @@
 # ENSC 351 – Embedded Systems (Fall 2025)
 
-Author: Amytis Saghafi
-Instructor: Dr. Matthew Stewart
-Platform: BeagleY-AI (Debian 13 Target + Debian 13 Host via VM)
-Languages: C / CMake / POSIX / pthread
+Author: Amytis Saghafi <br>
+Instructor: Dr. Matthew Stewart<br>
+Platform: BeagleY-AI (Debian 13 Target + Debian 13 Host via VM)<br>
+Languages: C / CMake / POSIX / pthread<br>
 Focus: Real-time embedded programming, HAL design, Linux cross-compilation, multithreading, and hardware I/O control
 
 ## Repository Overview
