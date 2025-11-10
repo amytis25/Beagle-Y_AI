@@ -1,6 +1,6 @@
 # ENSC 351 - Assignment 1 - Reaction Timer
-Written by: Amytis Saghafi
-Last Updated: November 8th/ 2025 
+Written by: Amytis Saghafi <br>
+Last Updated: Nov. 2025 
 ## Application Functionality 
 Display the welcome message and directions on how to play.
 Continuously loop through the following steps:
